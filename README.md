@@ -1,4 +1,4 @@
-# My-portgolio-PHP
+# My-portfolio-PHP
  Essa versão feita do meu portfolio feita em PHP, trás a opção do usuário que estiver visitando a página de enviar uma mensagem para entrar em contato comigo, utilizando o BD SQLite para armazenar as informações, sendo o nome, E-mail, assunto e uma mensagem.
  
 ![Screenshot_3](https://github.com/Reichertt/My-portgolio-PHP/assets/117548227/18f3e1c8-0484-478f-816b-733e3bb0d390)
